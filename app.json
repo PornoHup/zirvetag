@@ -13,9 +13,9 @@
     "API_HASH": "8ebf83ab11964494512a21f6a83fd639"
       "description": "Get this value from my.telegram.org! Please do not steal.",
       "value": ""
-    }
-  },
-  "buildpacks": [{
+    
+
+ "buildpacks": [{
     "url": "https://github.com/heroku/heroku-buildpack-python.git"
   }]
-}
+
