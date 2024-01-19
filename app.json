@@ -2,15 +2,15 @@
   "name": "Mention All Bot",
   "description": "A simple mention all for telegram.",
   "env": {
-    "TOKEN": {
+    "TOKEN": "6647759851:AAGprTykEUtZmwk4mwYPhj43rjCd0fBR000" 
       "description": "Enter bot token.",
       "value": ""
     },
-    "APP_ID": {
+    "APP_ID": "11964494512"
       "description": "Get this value from my.telegram.org! Please do not steal.",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": "8ebf83ab11964494512a21f6a83fd639"
       "description": "Get this value from my.telegram.org! Please do not steal.",
       "value": ""
     }
